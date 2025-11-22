@@ -39,7 +39,7 @@ export const personalInfo = {
   email: "yudipacco8@gmail.com",
   github: "https://github.com/yudi-star",
   linkedin: "https://www.linkedin.com/in/yudith-pacco-pachapuma",
-  siteUrl: 'https://tuportafolio.com',
+  siteUrl: 'https://portafolio.ypacco.net.pe',
   
   avatar: '/avatar.png',
   
